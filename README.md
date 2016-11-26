@@ -1,2 +1,3 @@
 # hello-word
- 仅仅是一个练习 Just a practice
+ Just a practice.
+ I like Chinese Kung Fu, especially like Tai chi.
